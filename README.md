@@ -9,11 +9,12 @@ This simple module includes compendia for Dreamscarred Press' Path of War, inclu
 - A few helpful macros
 
 ## Classes
-Included so far are only the standard Path of War classes: Harbinger, Mystic, Stalker, Warder, Warlord, and Zealot.
+Included so far are only the standard Path of War classes: Harbinger, Mystic, Stalker, Warder, Warlord, and Zealot. I have not added any archetypes yet.
 
 ## Class Abilities
 This compendium includes all class abilities for the provided classes. They are already linked to the classes, so they should appear in your character sheet upon level-up.
 I've also added all of the abilities for the other martial classes: Primal Disciple, Rubato, Nightmare, Myrmidon, Roil Dancer, Mind's eye Disciple, Monk of the Silver Fist, Knight Disciple, Pathwalker, Ambush Hunter, Hidden Blade, War Soul, Polymath, and Warpath Follower. However, I have not gotten around to adding them as individual classes yet.
+I have not added any archetypes or prestige classes, nor their abilities.
 
 ## Feats
 This is a simple compendium with entries for each of the Path of War feats. I have not done anything special with them, it is merely their descriptions.
@@ -28,5 +29,10 @@ I have included three macros:
 2. **Prepare Stances** - This requires the [Spellcaster Utility for PF1](https://github.com/SvenWerlen/fvtt-spellcaster-utility-pf1) module. It provides a pop-up with all of your known maneuvers, allowing you to select which ones you wish to prepare for the day. By default, it is set to your primary spellbook, but it is easy to change to secondary or tertiary.
 3. **Recover All Maneuvers** - Resets ALL maneuvers in your primary (by default) spellbook to their prepared amount (which should only ever be 1 or 0).
 
+---
 
-To-Do: Create buff compendium for stances
+To-Do: 
+- Add core PF martial classes
+- Add PoW archetypes
+- Add PoW prestige classes
+- Create buff compendium for stances
