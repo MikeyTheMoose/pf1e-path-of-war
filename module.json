@@ -5,11 +5,11 @@
   "version": "0.1.0",
   "compatibleCoreVersion": "Version 9",
   "systems": ["pf1"],
-  "author": "Sknowman",
-  "url":"https://github.com/baileymh/pf1e-archetypes",
-  "manifest": "https://github.com/baileymh/pf1e-archetypes/releases/download/0.1/module.json",
-  "download":"https://github.com/baileymh/pf1e-archetypes/releases/download/0.1/pf1e-archetypes_v0.1.zip",
-  "readme":"https://github.com/baileymh/pf1e-archetypes/blob/main/README.md",
+  "author": "MikeyTheMoose",
+  "url":"https://github.com/MikeyTheMoose/pf1e-path-of-war",
+  "manifest": "https://github.com/MikeyTheMoose/pf1e-path-of-war/releases/download/0.1/module.json",
+  "download":"https://github.com/MikeyTheMoose/pf1e-path-of-war/releases/download/0.1/pf1e-path-of-war_v0.1.zip",
+  "readme":"https://github.com/MikeyTheMoose/pf1e-path-of-war/blob/main/README.md",
   "packs": [
     {
       "label": "Path of War - Class Abilities",
@@ -17,8 +17,6 @@
       "name": "path-of-war-class-abilities",
       "path": "packs/path-of-war-class-abilities.db",
       "system": "pf1",
-      "package": "world",
-      "absPath": "C:\\Users\\Mikey\\AppData\\Local\\FoundryVTT\\Data\\worlds\\amethys-garden\\packs\\path-of-war-class-abilities.db",
       "private": false,
       "type": "Item"
     },
@@ -28,8 +26,6 @@
       "name": "path-of-war-classes",
       "path": "packs/path-of-war-classes.db",
       "system": "pf1",
-      "package": "world",
-      "absPath": "C:\\Users\\Mikey\\AppData\\Local\\FoundryVTT\\Data\\worlds\\amethys-garden\\packs\\path-of-war-classes.db",
       "private": false,
       "type": "Item"
     },
@@ -39,8 +35,6 @@
       "name": "path-of-war-feats",
       "path": "packs/path-of-war-feats.db",
       "system": "pf1",
-      "package": "world",
-      "absPath": "C:\\Users\\Mikey\\AppData\\Local\\FoundryVTT\\Data\\worlds\\amethys-garden\\packs\\path-of-war-feats.db",
       "private": false,
       "type": "Item"
     },
@@ -50,7 +44,6 @@
       "name": "path-of-war-macros",
       "path": "packs/path-of-war-macros.db",
       "system": "pf1",
-      "package": "world",
       "entity": "Macro",
       "private": false
     },
@@ -60,10 +53,8 @@
       "name": "path-of-war-maneuvers",
       "path": "packs/path-of-war-maneuvers.db",
       "system": "pf1",
-      "package": "world",
       "entity": "Item",
       "private": false,
-      "absPath": "/home/ubuntu/foundryuserdata/Data/worlds/amethys-garden/packs/path-of-war-maneuvers.db"
     }
   ]
 }
