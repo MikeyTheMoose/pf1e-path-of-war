@@ -13,8 +13,11 @@ Included so far are only the standard Path of War classes: Harbinger, Mystic, St
 
 ## Class Abilities
 This compendium includes all class abilities for the provided classes. They are already linked to the classes, so they should appear in your character sheet upon level-up.
+
 I've also added all of the abilities for the other martial classes: Primal Disciple, Rubato, Nightmare, Myrmidon, Roil Dancer, Mind's eye Disciple, Monk of the Silver Fist, Knight Disciple, Pathwalker, Ambush Hunter, Hidden Blade, War Soul, Polymath, and Warpath Follower. However, I have not gotten around to adding them as individual classes yet.
+
 I have not added any archetypes or prestige classes, nor their abilities.
+
 I have organized this compendium using [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders). It is not a necessary module, but it may help make things easier to find (and ensure you don't have artifact entries).
 
 ## Feats
@@ -22,7 +25,9 @@ This is a simple compendium with entries for each of the Path of War feats. I ha
 
 ## Maneuvers
 Again, this includes entries for each of the options, but I have not done any automation. There is no damage dice rolled, no saving throws asked for, or anything along those lines. Merely the description includes all of that information. I do not intend to update these, other than the ones used in my personal games.
+
 Maneuvers are added as spells, with stances as cantrips.
+
 Compendium Folders is even more useful here, for searching the various disciplines.
 
 ## Macros
